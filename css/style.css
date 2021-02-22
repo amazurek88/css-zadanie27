@@ -1,0 +1,19 @@
+body {
+    background-color: cornsilk;
+}
+
+p {
+    color: blue;
+}
+
+h3 {
+    color: yellowgreen;
+}
+
+h1 {
+    color: crimson;
+}
+
+h1 + h3 {
+    color: orange;
+}
